@@ -1,0 +1,1 @@
+console.log("where youve been app.js from resources ?")
